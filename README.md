@@ -1,10 +1,10 @@
 # random-quote-generator
 
-###Описание:
+### Описание:
 Генератор цитат на английском языке.
 
-###Технологии:
+### Технологии:
 JS, API
 
-###Демо:
+### Демо:
 https://deodaro.github.io/random-quote-generator/
